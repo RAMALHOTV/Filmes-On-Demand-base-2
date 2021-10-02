@@ -13,5 +13,5 @@
 <link>http://ignorame</link>
 <thumbnail>https://www.ci.buffalo.mn.us/wp-content/uploads/2014/04/on-demand-2.jpg</thumbnail>
 <fanart>https://acontecendoaqui.com.br/sites/default/files/ondemand.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/RAMALHOTV/filmesazvod/main/README.md</externallink>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/Filmes-On-Demand-base/main/README.md</externallink>
 </item>
